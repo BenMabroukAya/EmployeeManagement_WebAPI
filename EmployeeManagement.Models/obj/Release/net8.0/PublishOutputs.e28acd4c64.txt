@@ -1,0 +1,16 @@
+C:\Users\AYA\source\repos\EmployeeWebAPI__\EmployeeManagement.Models\bin\Release\net8.0\publish\EmployeeManagement.Models.dll
+C:\Users\AYA\source\repos\EmployeeWebAPI__\EmployeeManagement.Models\bin\Release\net8.0\publish\EmployeeManagement.Models.deps.json
+C:\Users\AYA\source\repos\EmployeeWebAPI__\EmployeeManagement.Models\bin\Release\net8.0\publish\EmployeeManagement.Models.pdb
+C:\Users\AYA\source\repos\EmployeeWebAPI__\EmployeeManagement.Models\bin\Release\net8.0\publish\Microsoft.Extensions.Configuration.dll
+C:\Users\AYA\source\repos\EmployeeWebAPI__\EmployeeManagement.Models\bin\Release\net8.0\publish\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\AYA\source\repos\EmployeeWebAPI__\EmployeeManagement.Models\bin\Release\net8.0\publish\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\AYA\source\repos\EmployeeWebAPI__\EmployeeManagement.Models\bin\Release\net8.0\publish\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\AYA\source\repos\EmployeeWebAPI__\EmployeeManagement.Models\bin\Release\net8.0\publish\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\AYA\source\repos\EmployeeWebAPI__\EmployeeManagement.Models\bin\Release\net8.0\publish\Microsoft.Extensions.Diagnostics.dll
+C:\Users\AYA\source\repos\EmployeeWebAPI__\EmployeeManagement.Models\bin\Release\net8.0\publish\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\AYA\source\repos\EmployeeWebAPI__\EmployeeManagement.Models\bin\Release\net8.0\publish\Microsoft.Extensions.Http.dll
+C:\Users\AYA\source\repos\EmployeeWebAPI__\EmployeeManagement.Models\bin\Release\net8.0\publish\Microsoft.Extensions.Logging.dll
+C:\Users\AYA\source\repos\EmployeeWebAPI__\EmployeeManagement.Models\bin\Release\net8.0\publish\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\AYA\source\repos\EmployeeWebAPI__\EmployeeManagement.Models\bin\Release\net8.0\publish\Microsoft.Extensions.Options.dll
+C:\Users\AYA\source\repos\EmployeeWebAPI__\EmployeeManagement.Models\bin\Release\net8.0\publish\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\AYA\source\repos\EmployeeWebAPI__\EmployeeManagement.Models\bin\Release\net8.0\publish\Microsoft.Extensions.Primitives.dll
